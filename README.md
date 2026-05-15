@@ -1,0 +1,2 @@
+# masteroppgave
+Master thesis outputs
